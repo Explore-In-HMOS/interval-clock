@@ -11,6 +11,522 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "settings_reminder_title",
+      "value": "每日提醒"
+    },
+    {
+      "name": "settings_reminder_toggle",
+      "value": "训练提醒"
+    },
+    {
+      "name": "settings_reminder_subtitle",
+      "value": "每天提醒你开始间歇训练"
+    },
+    {
+      "name": "settings_reminder_hour",
+      "value": "小时"
+    },
+    {
+      "name": "settings_reminder_minute",
+      "value": "分钟"
+    },
+    {
+      "name": "reminder_status_off",
+      "value": "提醒已关闭"
+    },
+    {
+      "name": "reminder_status_fallback",
+      "value": "已保存提醒时间（当前版本不支持系统定时）："
+    },
+    {
+      "name": "dashboard_quick_start_title",
+      "value": "一键快速开始"
+    },
+    {
+      "name": "dashboard_quick_start_empty",
+      "value": "收藏一个预设或先运行一次预设，即可启用一键开始。"
+    },
+    {
+      "name": "settings_default_session",
+      "value": "默认训练"
+    },
+    {
+      "name": "settings_coaching_cues",
+      "value": "训练提示"
+    },
+    {
+      "name": "settings_haptic_cues",
+      "value": "振动提示"
+    },
+    {
+      "name": "settings_haptic_subtitle",
+      "value": "倒计时与阶段切换时提供振动反馈"
+    },
+    {
+      "name": "settings_display_behavior",
+      "value": "显示行为"
+    },
+    {
+      "name": "settings_keep_awake",
+      "value": "保持屏幕常亮"
+    },
+    {
+      "name": "settings_keep_awake_subtitle",
+      "value": "训练期间尽量避免屏幕休眠"
+    },
+    {
+      "name": "settings_show_round_labels",
+      "value": "显示回合标签"
+    },
+    {
+      "name": "settings_show_round_labels_subtitle",
+      "value": "在计时圆环内显示阶段与回合文本"
+    },
+    {
+      "name": "session_source_custom",
+      "value": "自定义"
+    },
+    {
+      "name": "onboarding_welcome_title",
+      "value": "欢迎使用 Interval Clock"
+    },
+    {
+      "name": "onboarding_welcome_subtitle",
+      "value": "几秒内创建专注的快慢间歇训练。"
+    },
+    {
+      "name": "onboarding_how_it_works_title",
+      "value": "使用方式"
+    },
+    {
+      "name": "onboarding_how_it_works_item_1",
+      "value": "• 快速开始可手动设置快、慢和回合数。"
+    },
+    {
+      "name": "onboarding_how_it_works_item_2",
+      "value": "• 预设是一键可用、可重复使用的训练方案。"
+    },
+    {
+      "name": "onboarding_how_it_works_item_3",
+      "value": "• 历史会记录已完成训练与最近快捷入口。"
+    },
+    {
+      "name": "onboarding_routine_types_title",
+      "value": "可尝试的训练类型"
+    },
+    {
+      "name": "onboarding_routine_types_examples",
+      "value": "HIIT 30/30、节奏 45/90、耐力 20/120"
+    },
+    {
+      "name": "onboarding_open_dashboard",
+      "value": "打开仪表盘"
+    },
+    {
+      "name": "dashboard_title",
+      "value": "间歇训练仪表盘"
+    },
+    {
+      "name": "dashboard_start_prefix",
+      "value": "开始 "
+    },
+    {
+      "name": "dashboard_quick_start_section_title",
+      "value": "快速开始"
+    },
+    {
+      "name": "dashboard_fast_label",
+      "value": "快"
+    },
+    {
+      "name": "dashboard_slow_label",
+      "value": "慢"
+    },
+    {
+      "name": "dashboard_reps_label",
+      "value": "回合"
+    },
+    {
+      "name": "dashboard_start_custom_session",
+      "value": "开始自定义训练"
+    },
+    {
+      "name": "dashboard_favorite_presets_title",
+      "value": "收藏预设"
+    },
+    {
+      "name": "dashboard_favorite_presets_empty",
+      "value": "还没有收藏。前往预设页可置顶一个。"
+    },
+    {
+      "name": "dashboard_start_bullet_prefix",
+      "value": "开始 · "
+    },
+    {
+      "name": "dashboard_recent_presets_title",
+      "value": "最近预设"
+    },
+    {
+      "name": "dashboard_recent_presets_empty",
+      "value": "先完成一次预设训练即可查看最近记录。"
+    },
+    {
+      "name": "dashboard_quick_actions_title",
+      "value": "快捷操作"
+    },
+    {
+      "name": "dashboard_action_presets",
+      "value": "预设"
+    },
+    {
+      "name": "dashboard_action_history",
+      "value": "历史"
+    },
+    {
+      "name": "dashboard_action_insights",
+      "value": "洞察"
+    },
+    {
+      "name": "dashboard_action_settings",
+      "value": "设置"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "settings_work_duration",
+      "value": "运动时长"
+    },
+    {
+      "name": "settings_rest_duration",
+      "value": "休息时长"
+    },
+    {
+      "name": "settings_warm_up",
+      "value": "热身"
+    },
+    {
+      "name": "settings_cool_down",
+      "value": "冷却"
+    },
+    {
+      "name": "settings_repetitions",
+      "value": "回合数"
+    },
+    {
+      "name": "settings_haptic_low",
+      "value": "低"
+    },
+    {
+      "name": "settings_haptic_medium",
+      "value": "中"
+    },
+    {
+      "name": "settings_haptic_high",
+      "value": "高"
+    },
+    {
+      "name": "common_back_button",
+      "value": "返回"
+    },
+    {
+      "name": "common_cancel_button",
+      "value": "取消"
+    },
+    {
+      "name": "common_save_button",
+      "value": "保存"
+    },
+    {
+      "name": "common_done_button",
+      "value": "完成"
+    },
+    {
+      "name": "timer_phase_warm_up",
+      "value": "热身"
+    },
+    {
+      "name": "timer_phase_work",
+      "value": "运动"
+    },
+    {
+      "name": "timer_phase_rest",
+      "value": "休息"
+    },
+    {
+      "name": "timer_phase_cool_down",
+      "value": "冷却"
+    },
+    {
+      "name": "timer_recovery_interruption_note",
+      "value": "训练被中断且无法恢复，已标记为放弃。"
+    },
+    {
+      "name": "timer_round_label_prefix",
+      "value": "回合"
+    },
+    {
+      "name": "timer_resume_button",
+      "value": "继续"
+    },
+    {
+      "name": "timer_pause_button",
+      "value": "暂停"
+    },
+    {
+      "name": "timer_add_ten_seconds_button",
+      "value": "+10秒"
+    },
+    {
+      "name": "timer_skip_button",
+      "value": "跳过"
+    },
+    {
+      "name": "timer_restart_button",
+      "value": "重启"
+    },
+    {
+      "name": "timer_stop_button",
+      "value": "停止"
+    },
+    {
+      "name": "presets_default_routine_name_prefix",
+      "value": "训练"
+    },
+    {
+      "name": "presets_error_name_min_length",
+      "value": "名称至少需要 3 个字符。"
+    },
+    {
+      "name": "presets_error_work_duration",
+      "value": "运动时长必须大于 0 秒。"
+    },
+    {
+      "name": "presets_error_rest_duration",
+      "value": "休息时长必须大于 0 秒。"
+    },
+    {
+      "name": "presets_error_repetitions",
+      "value": "回合数至少为 1。"
+    },
+    {
+      "name": "presets_kind_built_in",
+      "value": "内置"
+    },
+    {
+      "name": "presets_kind_custom",
+      "value": "自定义"
+    },
+    {
+      "name": "presets_plan_warm_up_prefix",
+      "value": "热"
+    },
+    {
+      "name": "presets_plan_cool_down_prefix",
+      "value": "冷"
+    },
+    {
+      "name": "presets_start_button",
+      "value": "开始"
+    },
+    {
+      "name": "presets_edit_button",
+      "value": "编辑"
+    },
+    {
+      "name": "presets_delete_button",
+      "value": "删"
+    },
+    {
+      "name": "presets_title",
+      "value": "预设库"
+    },
+    {
+      "name": "presets_editor_helper",
+      "value": "当前编辑器支持一个运动/休息段，并可选热身与冷却。"
+    },
+    {
+      "name": "presets_my_routines_title",
+      "value": "我的训练"
+    },
+    {
+      "name": "presets_new_button",
+      "value": "+ 新建"
+    },
+    {
+      "name": "presets_empty_custom",
+      "value": "还没有自定义训练。创建一个以保存你的节奏。"
+    },
+    {
+      "name": "presets_built_in_title",
+      "value": "内置模板"
+    },
+    {
+      "name": "presets_edit_routine_title",
+      "value": "编辑训练"
+    },
+    {
+      "name": "presets_create_routine_title",
+      "value": "创建训练"
+    },
+    {
+      "name": "presets_routine_name_placeholder",
+      "value": "训练名称"
+    },
+    {
+      "name": "history_title",
+      "value": "历史"
+    },
+    {
+      "name": "history_preset_session",
+      "value": "预设训练"
+    },
+    {
+      "name": "history_custom_session",
+      "value": "自定义训练"
+    },
+    {
+      "name": "history_source_preset",
+      "value": "预设"
+    },
+    {
+      "name": "history_source_manual",
+      "value": "手动"
+    },
+    {
+      "name": "history_status_done",
+      "value": "完成"
+    },
+    {
+      "name": "history_status_stopped",
+      "value": "已停止"
+    },
+    {
+      "name": "history_rounds_suffix",
+      "value": "回合"
+    },
+    {
+      "name": "history_elapsed_prefix",
+      "value": "用时"
+    },
+    {
+      "name": "history_planned_prefix",
+      "value": "计划"
+    },
+    {
+      "name": "history_source_prefix",
+      "value": "来源："
+    },
+    {
+      "name": "history_plan_prefix",
+      "value": "方案："
+    },
+    {
+      "name": "history_started_prefix",
+      "value": "开始："
+    },
+    {
+      "name": "history_hide_details",
+      "value": "收起详情"
+    },
+    {
+      "name": "history_view_details",
+      "value": "查看详情"
+    },
+    {
+      "name": "history_filter_status",
+      "value": "状态"
+    },
+    {
+      "name": "history_filter_all",
+      "value": "全部"
+    },
+    {
+      "name": "history_filter_source",
+      "value": "来源"
+    },
+    {
+      "name": "history_filter_label",
+      "value": "标签"
+    },
+    {
+      "name": "history_no_labels",
+      "value": "暂无标签"
+    },
+    {
+      "name": "history_all_labels",
+      "value": "全部标签"
+    },
+    {
+      "name": "history_empty_title",
+      "value": "当前筛选下暂无训练记录。"
+    },
+    {
+      "name": "history_empty_subtitle",
+      "value": "可尝试重置状态/来源/标签筛选。"
+    },
+    {
+      "name": "insights_none_yet",
+      "value": "暂无"
+    },
+    {
+      "name": "insights_title",
+      "value": "洞察"
+    },
+    {
+      "name": "insights_active_minutes",
+      "value": "活跃分钟"
+    },
+    {
+      "name": "insights_this_week",
+      "value": "本周"
+    },
+    {
+      "name": "insights_completion",
+      "value": "完成率"
+    },
+    {
+      "name": "insights_streak",
+      "value": "连续天数"
+    },
+    {
+      "name": "insights_favorite_preset",
+      "value": "最常用预设"
+    },
+    {
+      "name": "insights_seven_day_adherence",
+      "value": "7 天达成情况"
+    },
+    {
+      "name": "insights_complete_total_hint",
+      "value": "完成 / 总数"
+    },
+    {
+      "name": "session_summary_complete_title",
+      "value": "训练完成"
+    },
+    {
+      "name": "session_summary_stopped_title",
+      "value": "训练已停止"
+    },
+    {
+      "name": "session_summary_total_time",
+      "value": "总用时："
+    },
+    {
+      "name": "session_summary_planned_time",
+      "value": "计划时长："
+    },
+    {
+      "name": "session_summary_rounds",
+      "value": "回合："
+    },
+    {
+      "name": "session_summary_status",
+      "value": "状态："
     }
   ]
 }

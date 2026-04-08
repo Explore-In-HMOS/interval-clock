@@ -11,6 +11,522 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "settings_reminder_title",
+      "value": "Daily Reminder"
+    },
+    {
+      "name": "settings_reminder_toggle",
+      "value": "Workout Reminder"
+    },
+    {
+      "name": "settings_reminder_subtitle",
+      "value": "Get a daily prompt to start your interval routine"
+    },
+    {
+      "name": "settings_reminder_hour",
+      "value": "Hour"
+    },
+    {
+      "name": "settings_reminder_minute",
+      "value": "Minute"
+    },
+    {
+      "name": "reminder_status_off",
+      "value": "Reminder is off"
+    },
+    {
+      "name": "reminder_status_fallback",
+      "value": "Saved reminder time (system scheduling unavailable):"
+    },
+    {
+      "name": "dashboard_quick_start_title",
+      "value": "One-Tap Quick Start"
+    },
+    {
+      "name": "dashboard_quick_start_empty",
+      "value": "Pin a favorite or run a preset once to enable one-tap start."
+    },
+    {
+      "name": "settings_default_session",
+      "value": "Default Session"
+    },
+    {
+      "name": "settings_coaching_cues",
+      "value": "Coaching Cues"
+    },
+    {
+      "name": "settings_haptic_cues",
+      "value": "Haptic Cues"
+    },
+    {
+      "name": "settings_haptic_subtitle",
+      "value": "Countdown and phase transitions"
+    },
+    {
+      "name": "settings_display_behavior",
+      "value": "Display Behavior"
+    },
+    {
+      "name": "settings_keep_awake",
+      "value": "Keep Screen Awake"
+    },
+    {
+      "name": "settings_keep_awake_subtitle",
+      "value": "Avoid display sleep during sessions"
+    },
+    {
+      "name": "settings_show_round_labels",
+      "value": "Show Round Labels"
+    },
+    {
+      "name": "settings_show_round_labels_subtitle",
+      "value": "Show round/phase text inside timer ring"
+    },
+    {
+      "name": "session_source_custom",
+      "value": "Custom"
+    },
+    {
+      "name": "onboarding_welcome_title",
+      "value": "Welcome to Interval Clock"
+    },
+    {
+      "name": "onboarding_welcome_subtitle",
+      "value": "Build focused fast/slow workouts in seconds."
+    },
+    {
+      "name": "onboarding_how_it_works_title",
+      "value": "How it works"
+    },
+    {
+      "name": "onboarding_how_it_works_item_1",
+      "value": "• Quick Start lets you set Fast, Slow, and Reps manually."
+    },
+    {
+      "name": "onboarding_how_it_works_item_2",
+      "value": "• Presets are one-tap routines saved for repeat sessions."
+    },
+    {
+      "name": "onboarding_how_it_works_item_3",
+      "value": "• History tracks completed workouts and recent shortcuts."
+    },
+    {
+      "name": "onboarding_routine_types_title",
+      "value": "Try these routine types"
+    },
+    {
+      "name": "onboarding_routine_types_examples",
+      "value": "HIIT 30/30, Tempo 45/90, Endurance 20/120"
+    },
+    {
+      "name": "onboarding_open_dashboard",
+      "value": "Open Dashboard"
+    },
+    {
+      "name": "dashboard_title",
+      "value": "Interval Dashboard"
+    },
+    {
+      "name": "dashboard_start_prefix",
+      "value": "Start "
+    },
+    {
+      "name": "dashboard_quick_start_section_title",
+      "value": "Quick Start"
+    },
+    {
+      "name": "dashboard_fast_label",
+      "value": "Fast"
+    },
+    {
+      "name": "dashboard_slow_label",
+      "value": "Slow"
+    },
+    {
+      "name": "dashboard_reps_label",
+      "value": "Reps"
+    },
+    {
+      "name": "dashboard_start_custom_session",
+      "value": "Start Custom Session"
+    },
+    {
+      "name": "dashboard_favorite_presets_title",
+      "value": "Favorite Presets"
+    },
+    {
+      "name": "dashboard_favorite_presets_empty",
+      "value": "No favorites yet. Open Presets to pin one."
+    },
+    {
+      "name": "dashboard_start_bullet_prefix",
+      "value": "Start · "
+    },
+    {
+      "name": "dashboard_recent_presets_title",
+      "value": "Recent Presets"
+    },
+    {
+      "name": "dashboard_recent_presets_empty",
+      "value": "Complete one preset workout to see recents."
+    },
+    {
+      "name": "dashboard_quick_actions_title",
+      "value": "Quick Actions"
+    },
+    {
+      "name": "dashboard_action_presets",
+      "value": "Presets"
+    },
+    {
+      "name": "dashboard_action_history",
+      "value": "History"
+    },
+    {
+      "name": "dashboard_action_insights",
+      "value": "Insights"
+    },
+    {
+      "name": "dashboard_action_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_title",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_work_duration",
+      "value": "Work Duration"
+    },
+    {
+      "name": "settings_rest_duration",
+      "value": "Rest Duration"
+    },
+    {
+      "name": "settings_warm_up",
+      "value": "Warm-Up"
+    },
+    {
+      "name": "settings_cool_down",
+      "value": "Cool-Down"
+    },
+    {
+      "name": "settings_repetitions",
+      "value": "Repetitions"
+    },
+    {
+      "name": "settings_haptic_low",
+      "value": "Low"
+    },
+    {
+      "name": "settings_haptic_medium",
+      "value": "Medium"
+    },
+    {
+      "name": "settings_haptic_high",
+      "value": "High"
+    },
+    {
+      "name": "common_back_button",
+      "value": "Back"
+    },
+    {
+      "name": "common_cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "common_save_button",
+      "value": "Save"
+    },
+    {
+      "name": "common_done_button",
+      "value": "Done"
+    },
+    {
+      "name": "timer_phase_warm_up",
+      "value": "Warm-Up"
+    },
+    {
+      "name": "timer_phase_work",
+      "value": "Work"
+    },
+    {
+      "name": "timer_phase_rest",
+      "value": "Rest"
+    },
+    {
+      "name": "timer_phase_cool_down",
+      "value": "Cool-Down"
+    },
+    {
+      "name": "timer_recovery_interruption_note",
+      "value": "Session was interrupted and could not be restored. It was marked as abandoned."
+    },
+    {
+      "name": "timer_round_label_prefix",
+      "value": "Round"
+    },
+    {
+      "name": "timer_resume_button",
+      "value": "Resume"
+    },
+    {
+      "name": "timer_pause_button",
+      "value": "Pause"
+    },
+    {
+      "name": "timer_add_ten_seconds_button",
+      "value": "+10s"
+    },
+    {
+      "name": "timer_skip_button",
+      "value": "Skip"
+    },
+    {
+      "name": "timer_restart_button",
+      "value": "Restart"
+    },
+    {
+      "name": "timer_stop_button",
+      "value": "Stop"
+    },
+    {
+      "name": "presets_default_routine_name_prefix",
+      "value": "Routine"
+    },
+    {
+      "name": "presets_error_name_min_length",
+      "value": "Name should be at least 3 characters."
+    },
+    {
+      "name": "presets_error_work_duration",
+      "value": "Work duration must be greater than 0 sec."
+    },
+    {
+      "name": "presets_error_rest_duration",
+      "value": "Rest duration must be greater than 0 sec."
+    },
+    {
+      "name": "presets_error_repetitions",
+      "value": "Repetitions must be at least 1."
+    },
+    {
+      "name": "presets_kind_built_in",
+      "value": "Built-in"
+    },
+    {
+      "name": "presets_kind_custom",
+      "value": "Custom"
+    },
+    {
+      "name": "presets_plan_warm_up_prefix",
+      "value": "W"
+    },
+    {
+      "name": "presets_plan_cool_down_prefix",
+      "value": "C"
+    },
+    {
+      "name": "presets_start_button",
+      "value": "Start"
+    },
+    {
+      "name": "presets_edit_button",
+      "value": "Edit"
+    },
+    {
+      "name": "presets_delete_button",
+      "value": "Del"
+    },
+    {
+      "name": "presets_title",
+      "value": "Preset Library"
+    },
+    {
+      "name": "presets_editor_helper",
+      "value": "Current routine editor supports one work/rest segment with optional warm-up and cool-down."
+    },
+    {
+      "name": "presets_my_routines_title",
+      "value": "My Routines"
+    },
+    {
+      "name": "presets_new_button",
+      "value": "+ New"
+    },
+    {
+      "name": "presets_empty_custom",
+      "value": "No custom routines yet. Create one to save your own timing."
+    },
+    {
+      "name": "presets_built_in_title",
+      "value": "Built-in Templates"
+    },
+    {
+      "name": "presets_edit_routine_title",
+      "value": "Edit Routine"
+    },
+    {
+      "name": "presets_create_routine_title",
+      "value": "Create Routine"
+    },
+    {
+      "name": "presets_routine_name_placeholder",
+      "value": "Routine name"
+    },
+    {
+      "name": "history_title",
+      "value": "History"
+    },
+    {
+      "name": "history_preset_session",
+      "value": "Preset Session"
+    },
+    {
+      "name": "history_custom_session",
+      "value": "Custom Session"
+    },
+    {
+      "name": "history_source_preset",
+      "value": "Preset"
+    },
+    {
+      "name": "history_source_manual",
+      "value": "Manual"
+    },
+    {
+      "name": "history_status_done",
+      "value": "Done"
+    },
+    {
+      "name": "history_status_stopped",
+      "value": "Stopped"
+    },
+    {
+      "name": "history_rounds_suffix",
+      "value": "rds"
+    },
+    {
+      "name": "history_elapsed_prefix",
+      "value": "Elapsed"
+    },
+    {
+      "name": "history_planned_prefix",
+      "value": "Planned"
+    },
+    {
+      "name": "history_source_prefix",
+      "value": "Source:"
+    },
+    {
+      "name": "history_plan_prefix",
+      "value": "Plan:"
+    },
+    {
+      "name": "history_started_prefix",
+      "value": "Started:"
+    },
+    {
+      "name": "history_hide_details",
+      "value": "Hide Details"
+    },
+    {
+      "name": "history_view_details",
+      "value": "View Details"
+    },
+    {
+      "name": "history_filter_status",
+      "value": "Status"
+    },
+    {
+      "name": "history_filter_all",
+      "value": "All"
+    },
+    {
+      "name": "history_filter_source",
+      "value": "Source"
+    },
+    {
+      "name": "history_filter_label",
+      "value": "Label"
+    },
+    {
+      "name": "history_no_labels",
+      "value": "No labels yet"
+    },
+    {
+      "name": "history_all_labels",
+      "value": "All Labels"
+    },
+    {
+      "name": "history_empty_title",
+      "value": "No sessions for current filters."
+    },
+    {
+      "name": "history_empty_subtitle",
+      "value": "Try resetting status/source/label filters."
+    },
+    {
+      "name": "insights_none_yet",
+      "value": "None yet"
+    },
+    {
+      "name": "insights_title",
+      "value": "Insights"
+    },
+    {
+      "name": "insights_active_minutes",
+      "value": "Active Minutes"
+    },
+    {
+      "name": "insights_this_week",
+      "value": "This Week"
+    },
+    {
+      "name": "insights_completion",
+      "value": "Completion"
+    },
+    {
+      "name": "insights_streak",
+      "value": "Streak"
+    },
+    {
+      "name": "insights_favorite_preset",
+      "value": "Favorite Preset"
+    },
+    {
+      "name": "insights_seven_day_adherence",
+      "value": "7-Day Adherence"
+    },
+    {
+      "name": "insights_complete_total_hint",
+      "value": "complete / total"
+    },
+    {
+      "name": "session_summary_complete_title",
+      "value": "Session Complete"
+    },
+    {
+      "name": "session_summary_stopped_title",
+      "value": "Session Stopped"
+    },
+    {
+      "name": "session_summary_total_time",
+      "value": "Total time:"
+    },
+    {
+      "name": "session_summary_planned_time",
+      "value": "Planned time:"
+    },
+    {
+      "name": "session_summary_rounds",
+      "value": "Rounds:"
+    },
+    {
+      "name": "session_summary_status",
+      "value": "Status:"
     }
   ]
 }
