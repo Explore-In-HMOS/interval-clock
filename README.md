@@ -1,7 +1,7 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Interval Clock
-This project demonstrates a sample application for Huawei Wearable Devices that runs with HarmonyOS Next.
+This project demonstrates a sample application for Huawei Wearable Devices that runs with HarmonyOS.
 It is an interval clock sample app for sports & outdoor users.
 
 # Preview
